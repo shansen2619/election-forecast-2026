@@ -30,8 +30,8 @@ window.SITE_CONFIG = {
   ],
 
   // Your data files. Leave these alone unless you renamed your files.
-  forecast_file: "forecast.csv",
-  sims_file: "seat_sims.csv",
+  forecast_file: "forecast_hansen.csv",
+  sims_file: "seat_sims_hansen.csv",
 
   // Course links. Leave these as they are.
   links: {
